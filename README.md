@@ -9,7 +9,6 @@ This is a production-ready frontend built with [Vite](https://vitejs.dev/), full
 - Docker (multi-stage)
 -  GitHub Actions (CI/CD pipeline)
 -  Docker Hub (image hosting)
-- Render Upload (Optional)
 
 ---
 
